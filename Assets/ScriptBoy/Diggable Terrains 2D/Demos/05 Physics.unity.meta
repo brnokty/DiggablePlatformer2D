@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ec6c16f7991163248a20f7dc512c180a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270332
+  packageName: Diggable Terrains 2D
+  packageVersion: 2.1.0
+  assetPath: Assets/ScriptBoy/Diggable Terrains 2D/Demos/05 Physics.unity
+  uploadId: 685206

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 717d616062cd77d48afe81c2f7a42bde
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270332
+  packageName: Diggable Terrains 2D
+  packageVersion: 2.1.0
+  assetPath: Assets/ScriptBoy/Diggable Terrains 2D/Resources/Shaders/Edge.shader
+  uploadId: 685206

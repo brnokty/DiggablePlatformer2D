@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fa6fe971e7b095c4a8e09c56a53512ad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270332
+  packageName: Diggable Terrains 2D
+  packageVersion: 2.1.0
+  assetPath: Assets/ScriptBoy/Diggable Terrains 2D/Scripts/Runtime/Utility/PolylineMeshUtility.cs
+  uploadId: 685206

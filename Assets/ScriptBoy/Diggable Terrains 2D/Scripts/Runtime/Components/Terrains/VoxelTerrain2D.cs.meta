@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: b87e1424513582c49a586586beb19f1d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_SplatMap: {instanceID: 0}
+  - m_CheckerTexture: {fileID: 10309, guid: 0000000000000000f000000000000000, type: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270332
+  packageName: Diggable Terrains 2D
+  packageVersion: 2.1.0
+  assetPath: Assets/ScriptBoy/Diggable Terrains 2D/Scripts/Runtime/Components/Terrains/VoxelTerrain2D.cs
+  uploadId: 685206

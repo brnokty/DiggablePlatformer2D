@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 515fed2d204cf83489c0a24b9ec350e0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270332
+  packageName: Diggable Terrains 2D
+  packageVersion: 2.1.0
+  assetPath: Assets/ScriptBoy/Diggable Terrains 2D/Demos/Sprites/Materials/sb_rocket.mat
+  uploadId: 685206

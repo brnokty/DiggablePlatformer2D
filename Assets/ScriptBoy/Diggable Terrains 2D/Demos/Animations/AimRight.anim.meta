@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9398e7550a1486a40880525eda0ce579
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270332
+  packageName: Diggable Terrains 2D
+  packageVersion: 2.1.0
+  assetPath: Assets/ScriptBoy/Diggable Terrains 2D/Demos/Animations/AimRight.anim
+  uploadId: 685206

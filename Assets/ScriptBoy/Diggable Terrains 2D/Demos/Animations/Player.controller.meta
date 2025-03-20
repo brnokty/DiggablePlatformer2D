@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6369b1f7d87c5564aa20dc57e2977a38
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270332
+  packageName: Diggable Terrains 2D
+  packageVersion: 2.1.0
+  assetPath: Assets/ScriptBoy/Diggable Terrains 2D/Demos/Animations/Player.controller
+  uploadId: 685206

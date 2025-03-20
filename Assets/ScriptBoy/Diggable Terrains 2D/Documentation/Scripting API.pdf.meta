@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 50a7094482574ea4caabc295279c0965
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270332
+  packageName: Diggable Terrains 2D
+  packageVersion: 2.1.0
+  assetPath: Assets/ScriptBoy/Diggable Terrains 2D/Documentation/Scripting API.pdf
+  uploadId: 685206

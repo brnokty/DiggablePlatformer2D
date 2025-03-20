@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2db5b5648a803e54bac70e915149cbf7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270332
+  packageName: Diggable Terrains 2D
+  packageVersion: 2.1.0
+  assetPath: Assets/ScriptBoy/Diggable Terrains 2D/Demos/URP/URP 2D Renderer.asset
+  uploadId: 685206

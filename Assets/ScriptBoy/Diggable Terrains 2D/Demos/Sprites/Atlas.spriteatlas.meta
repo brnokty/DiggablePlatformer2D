@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1131f887091843a439528034cb2a3687
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4343727234628468602
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270332
+  packageName: Diggable Terrains 2D
+  packageVersion: 2.1.0
+  assetPath: Assets/ScriptBoy/Diggable Terrains 2D/Demos/Sprites/Atlas.spriteatlas
+  uploadId: 685206

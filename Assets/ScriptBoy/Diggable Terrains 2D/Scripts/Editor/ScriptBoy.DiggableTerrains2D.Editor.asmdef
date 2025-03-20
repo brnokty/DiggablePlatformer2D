@@ -1,0 +1,18 @@
+{
+    "name": "ScriptBoy.DiggableTerrains2D. Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3e4fe9ab7c2ee3e42a9caae030522e97"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

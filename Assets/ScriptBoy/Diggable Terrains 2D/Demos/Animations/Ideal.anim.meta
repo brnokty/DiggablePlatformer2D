@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cb4e5cf0b96fe2944949a8830b0d7cf4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270332
+  packageName: Diggable Terrains 2D
+  packageVersion: 2.1.0
+  assetPath: Assets/ScriptBoy/Diggable Terrains 2D/Demos/Animations/Ideal.anim
+  uploadId: 685206

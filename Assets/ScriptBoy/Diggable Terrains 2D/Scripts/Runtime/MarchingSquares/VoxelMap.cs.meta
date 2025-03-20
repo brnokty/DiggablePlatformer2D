@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3915716dd2f2f0b4f8c26f26f11653c4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270332
+  packageName: Diggable Terrains 2D
+  packageVersion: 2.1.0
+  assetPath: Assets/ScriptBoy/Diggable Terrains 2D/Scripts/Runtime/MarchingSquares/VoxelMap.cs
+  uploadId: 685206

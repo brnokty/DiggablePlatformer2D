@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 50f2d2c904a9b4b469c2cac9e0c68656
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270332
+  packageName: Diggable Terrains 2D
+  packageVersion: 2.1.0
+  assetPath: Assets/ScriptBoy/Diggable Terrains 2D/Scripts/Runtime/Components/Shapes/CircleShape2D.cs
+  uploadId: 685206

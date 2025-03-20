@@ -1,0 +1,1 @@
+All sounds have been downloaded from royalty-free sites under CC0 licenses. It is important to mention that the Diggable Terrains 2D is not an audio package; these files have solely been used for the purpose of demos and tutorials.

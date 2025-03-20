@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1571c4359c8259b4bac59ebf06d0eeb8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270332
+  packageName: Diggable Terrains 2D
+  packageVersion: 2.1.0
+  assetPath: Assets/ScriptBoy/Diggable Terrains 2D/Scripts/Editor/Components/ShovelEditor.cs
+  uploadId: 685206

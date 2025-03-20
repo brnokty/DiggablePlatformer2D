@@ -1,0 +1,55 @@
+Version 2.1.0 
+- Added the ability to save and load terrains during runtime.
+- Fixed an issue where Polygon Terrain 2D became invisible after digging when the Shovel had a smaller simplification threshold.
+- Fixed Voxel Terrain 2D errors caused by shape segments overlapping chunk boundaries.
+
+Version 2.0.5
+- Fixed invisible terrain issue in Unity 6 and 2023 URP projects.
+
+Version 2.0.4
+- Added the Red Rocket demo.
+- Fixed the Voxel Terrain 2D collider to be in the correct layer.
+- Fixed incorrect terrain particle color when the splat map is painted in play mode.
+
+Version 2.0.3
+- Fixed shader errors on WebGL and Android.
+- Fixed FreeMoveHandle errors in Unity 2021 that occurred after the previous update.
+- Fixed incorrect terrain particle colors in demo scenes.
+
+Version 2.0.2
+- Fixed OnDrawGizmos errors.
+
+Version 2.0.1
+- Deleted EButton Attributes V2.
+
+Version 2.0.0
+- Renamed the project to Diggable Terrains 2D.
+- Renamed the namesapace to ScriptBoy.DiggableTerrains2D.
+- Renamed all folders.
+_ Deleted all dll files.
+_ Deleted all materials.
+_ Deleted the Round Corner component.
+- Optimized all algorithms.
+- Restructured the Shovel component.
+- Restructured the Terrain 2D class.
+- Added the Polygon Terrain 2D component.
+- Added the Voxel Terrain 2D component.
+- Added Box Shape 2D component.
+- Added Circle Shape 2D component.
+- Added Polyline Shape 2D component.
+- Added Spline Shape 2D component.
+- Added Fill function.
+- Added Holes feature.
+- Added Wave settings to Shovel component.
+- Added Layers settings to terrains.
+- Added Splat Map settings to terrains.
+- Added Collider Offset setting to terrains.
+- Added Physics feature to Polygon Terrain 2D component.
+_ Added new shaders for terrains.
+_ Replaced all textures and sprites.
+_ Replaced old demos with new ones.
+
+Notes
+- Version 2 is not compatible with the previous version.
+- Version 2 has a different workflow, so please check the documentation.
+- Please delete version 1 before importing version 2 to avoid any conflicts or issues.

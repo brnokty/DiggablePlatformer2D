@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ac6f8a17b2210a643a4ce53aa47d5e6b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270332
+  packageName: Diggable Terrains 2D
+  packageVersion: 2.1.0
+  assetPath: Assets/ScriptBoy/Diggable Terrains 2D/Demos/Scripts/DigTerrainWith2Layers.cs
+  uploadId: 685206

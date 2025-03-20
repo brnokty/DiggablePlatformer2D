@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3540f3ad56115b0449ea011f929bd6e7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270332
+  packageName: Diggable Terrains 2D
+  packageVersion: 2.1.0
+  assetPath: Assets/ScriptBoy/Diggable Terrains 2D/Demos/Prefabs/rocket.prefab
+  uploadId: 685206

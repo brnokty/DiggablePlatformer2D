@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 423f522fbe048aa42a440c4f2ef91d58
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270332
+  packageName: Diggable Terrains 2D
+  packageVersion: 2.1.0
+  assetPath: Assets/ScriptBoy/Diggable Terrains 2D/Demos/Animations/Shovel.anim
+  uploadId: 685206

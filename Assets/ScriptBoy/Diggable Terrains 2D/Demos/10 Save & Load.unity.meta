@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dbd774957bed746479e322384ff381c8
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270332
+  packageName: Diggable Terrains 2D
+  packageVersion: 2.1.0
+  assetPath: Assets/ScriptBoy/Diggable Terrains 2D/Demos/10 Save & Load.unity
+  uploadId: 685206

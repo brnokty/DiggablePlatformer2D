@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7c5ac0120fbb8df4ab800bfb694d8463
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270332
+  packageName: Diggable Terrains 2D
+  packageVersion: 2.1.0
+  assetPath: Assets/ScriptBoy/Diggable Terrains 2D/Documentation/Readme.txt
+  uploadId: 685206

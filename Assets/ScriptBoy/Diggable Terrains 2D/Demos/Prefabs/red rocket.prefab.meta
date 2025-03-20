@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 02acc50a0763edf46bb4bb63b576d346
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270332
+  packageName: Diggable Terrains 2D
+  packageVersion: 2.1.0
+  assetPath: Assets/ScriptBoy/Diggable Terrains 2D/Demos/Prefabs/red rocket.prefab
+  uploadId: 685206

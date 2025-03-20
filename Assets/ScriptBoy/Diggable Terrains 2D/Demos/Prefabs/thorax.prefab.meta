@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f1e035987d980b64a90d627b3c65ee54
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270332
+  packageName: Diggable Terrains 2D
+  packageVersion: 2.1.0
+  assetPath: Assets/ScriptBoy/Diggable Terrains 2D/Demos/Prefabs/thorax.prefab
+  uploadId: 685206

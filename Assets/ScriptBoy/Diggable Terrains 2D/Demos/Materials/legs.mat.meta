@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4c9a9f12b288ae24a8af7da3808ce060
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270332
+  packageName: Diggable Terrains 2D
+  packageVersion: 2.1.0
+  assetPath: Assets/ScriptBoy/Diggable Terrains 2D/Demos/Materials/legs.mat
+  uploadId: 685206

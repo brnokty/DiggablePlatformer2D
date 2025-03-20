@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 67b26daf5ccaee044ac58e9542cc5bf2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270332
+  packageName: Diggable Terrains 2D
+  packageVersion: 2.1.0
+  assetPath: Assets/ScriptBoy/Diggable Terrains 2D/Demos/Animations/AimUp.anim
+  uploadId: 685206

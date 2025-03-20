@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 031d28420d9de4b4182d2aa23acb5a1b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270332
+  packageName: Diggable Terrains 2D
+  packageVersion: 2.1.0
+  assetPath: Assets/ScriptBoy/Diggable Terrains 2D/Resources/Shaders/Fill.shader
+  uploadId: 685206

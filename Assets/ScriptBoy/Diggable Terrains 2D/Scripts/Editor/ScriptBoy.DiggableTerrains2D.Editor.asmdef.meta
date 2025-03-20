@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 703668068e8f0f646bdea4578894ecf3
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270332
+  packageName: Diggable Terrains 2D
+  packageVersion: 2.1.0
+  assetPath: Assets/ScriptBoy/Diggable Terrains 2D/Scripts/Editor/ScriptBoy.DiggableTerrains2D.Editor.asmdef
+  uploadId: 685206
